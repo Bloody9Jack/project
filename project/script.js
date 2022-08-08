@@ -54,7 +54,7 @@ function detectPersonalLevel() {
     }
 }
 
-// detectPersonalLevel();
+detectPersonalLevel();
 
 function showMyDB(hideen) {
     if (!hideen) {
